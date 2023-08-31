@@ -1,0 +1,9 @@
+body
+{
+    background: linear-gradient(#aa8b00 25%, 	 #d1cf46 25%, #ddbd0a 25%, #f1ff71 25%);
+}
+
+#msg
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
